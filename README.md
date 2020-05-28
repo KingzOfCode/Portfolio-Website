@@ -11,3 +11,6 @@ Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
 ## Projects
 https://day1tradingcard--kingzofcode.repl.co/
 https://day2clock--kingzofcode.repl.co/
+
+## Google Maps API Key
+AIzaSyB6u8Z5m8LY8_HfG2NMiBQue_Fl0StvysE
